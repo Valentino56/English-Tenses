@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Exercise/Answers/All/Continuous/10(Answer)Continuous.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
