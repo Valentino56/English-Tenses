@@ -14,6 +14,6 @@ Welsey - 2031159,
 Richard Ezra - 2031130,
 Rio Fernando - 2031175
 
-Script located in Assets
+Script located in NewUnityProject>Assets
 
 They are : NewBehaviourScript and Quit
