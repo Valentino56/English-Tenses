@@ -16,4 +16,4 @@ Rio Fernando - 2031175
 
 Script located in New Unity Project>Assets
 
-They are : NewBehaviourScript and Quit
+They are : NewBehaviourScript.cs and Quit.cs
